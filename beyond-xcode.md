@@ -59,7 +59,10 @@ Identifying which change introduced a bug.
 
 ## Advantages over `git` from the command line:
 
-* Show visual hierarchy
+> Why not just use the command line?
+-- *Way too many people, on way to many threads*
+
+* Show visual hierarchy, expand and collapse information
 * Perform partial commits
 
 ---
@@ -209,10 +212,9 @@ Find a token.
 # Why Fuzzy Finders?
 
 > Not all abstract interfaces can outperform a well-designed visual interface. (Just look at the amount of typing airline counter personnel have to do with their steam-powered computers to make a simple change.) LaunchBar is well-designed, quick, and depends on you to form your own abbreviations, sharply reducing the memory burden. I haven't performed or reviewed a stopwatch test, but LaunchBar should be able to outperform a visual interface for complex, repetitive switching sequences by an expert user.
-
 -- *Bruce Tognazzini, AskTog, January, 2004*
 
-Author of the initial *The Apple Human Interface Guidelines* in 1978.
+Author of the original *The Apple Human Interface Guidelines* in 1978.
 
 ---
 
