@@ -332,3 +332,11 @@ Author of the original *Apple Human Interface Guidelines* in 1978.
 1. `cd`
 2. Add a Parameter
 3. Interface for another command
+
+---
+
+# Thanks!
+
+```
+github.com/robenkleene/hipster-software
+```
