@@ -64,7 +64,7 @@ The Dank Meme Tools
 
 ---
 
-## Advantages of Kaleidoscope over FileMerge
+## Advantages of Kaleidoscope over FileMerge?
 
 * Automatic integration with `git` (e.g., `git difftool <branch>`)
 * Services integration
@@ -99,7 +99,7 @@ It has an iOS version.
 
 ---
 
-## Advantages over `git` from the command line:
+## Advantages over `git` from the command line?
 
 * Show visual hierarchy, expand and collapse information
 * Perform partial commits
@@ -115,13 +115,15 @@ Izzy's show.
 
 # Soulver
 
+![fit](images/soulver.png)
+
 * Live Calculator
 * Acqualia
 * $11.99
 
 ---
 
-## Advantages of Soulver over Calculator.app:
+## Advantages of Soulver over Calculator.app?
 
 * Shows results live
 * Saves to a file
@@ -138,13 +140,15 @@ The cost of software.
 
 # Dash
 
-* Documentation browser
+![fit](images/dash.png)
+
+* Documentation Browser
 * Kapeli
 * $24.99
 
 ---
 
-## Advantages of Dash Over Other Documentation
+## Advantages of Dash over other documentation?
 
 * Offline
 * Consistent interface for various languages (Swift, JavaScript, Java, etc...)
@@ -154,13 +158,24 @@ The cost of software.
 
 # Dash Demo
 
-Analyzing an API.
+1. Analyzing an API.
+2. Show download `.docset`
 
 ---
 
 # AppleScript
 
-What can you do with it?
+![fit](images/script-editor.png)
+
+* Scripting Language with OS Hooks
+* Free
+* Apple
+
+---
+
+# Why do I want AppleScript?
+
+## Examples
 
 * In Xcode, Open Document Directory in Terminal
 * Open a Terminal Window a the Frontmost Finder Window's Location
@@ -169,13 +184,23 @@ What can you do with it?
 
 ---
 
-## AppleScript Demo
+# AppleScript Demo
 
 * The Script Menu
 
 ---
 
-## Keyboard Maestro
+# Keyboard Maestro
+
+![fit](images/keyboard-maestro.png)
+
+* Macro Utility
+* Stairways Software / Peter N Lewis (in business since 1995)
+* $36
+
+---
+
+## What's it good for?
 
 * AppleScript Shortcuts
 * Type clipboard in the Simulator
