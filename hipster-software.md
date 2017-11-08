@@ -179,6 +179,7 @@ The cost of software.
 ![fit](images/script-editor.png)
 
 * Scripting Language with OS hooks
+* 1993, part of Classic Mac OS System 7
 * Free
 * Apple
 
@@ -340,3 +341,5 @@ Author of the original *Apple Human Interface Guidelines* in 1978.
 ```
 github.com/robenkleene/hipster-software
 ```
+
+[Que Animal Collective](https://www.youtube.com/watch?v=agkn0NybXUQ&app=desktop)
