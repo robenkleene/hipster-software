@@ -26,13 +26,15 @@ The Dank Meme Tools
 
 # I have no #$@&% idea
 
+But the `dankmeme` subreddit has over 730,000 subscribers.
+
 ---
 
 # Why use a tool?
 
-1. To make things impossible possible.
-2. It's faster.
-2. To reduce effort, make something complex easy (to conserve energy).
+1. To make things impossible possible
+2. It's faster
+2. To reduce effort, to make something complex easy (to conserve energy)
 
 ---
 
@@ -40,17 +42,22 @@ The Dank Meme Tools
 
 * Higher quality GUI tools
 * Demos mean low risk purchases
-	* No subscriptions
-	* No cost of ownership
+* No cost of ownership
 * Cost is tiny relative to hardware
 
 ---
 
-# More
+# More reasons to use paid tools
 
 * More likely to be maintained
 * The primary cost of software is time invested to learn it
 * It's cheap! On a four year upgrade cycle, $400 of software is about $75 a year.
+
+---
+
+# GUI Tools
+
+![fit](images/xscope.png)
 
 ---
 
@@ -64,7 +71,11 @@ The Dank Meme Tools
 
 ---
 
-## Advantages of Kaleidoscope over FileMerge?
+![fit](images/filemerge.png)
+
+---
+
+# Advantages of Kaleidoscope over FileMerge?
 
 * Automatic integration with `git` (e.g., `git difftool <branch>`)
 * Services integration
@@ -99,7 +110,7 @@ It has an iOS version.
 
 ---
 
-## Advantages over `git` from the command line?
+# Advantages over `git` from the command line?
 
 * Show visual hierarchy, expand and collapse information
 * Perform partial commits
@@ -109,7 +120,7 @@ It has an iOS version.
 
 # Tower Demo
 
-Izzy's show.
+Izzy's show
 
 ---
 
@@ -123,7 +134,7 @@ Izzy's show.
 
 ---
 
-## Advantages of Soulver over Calculator.app?
+# Advantages of Soulver over Calculator.app?
 
 * Shows results live
 * Saves to a file
@@ -158,7 +169,7 @@ The cost of software.
 
 # Dash Demo
 
-1. Analyzing an API.
+1. Analyzing an API
 2. Show download `.docset`
 
 ---
@@ -167,15 +178,13 @@ The cost of software.
 
 ![fit](images/script-editor.png)
 
-* Scripting Language with OS Hooks
+* Scripting Language with OS hooks
 * Free
 * Apple
 
 ---
 
-# Why do I want AppleScript?
-
-## Examples
+# What's AppleScript for?
 
 * In Xcode, Open Document Directory in Terminal
 * Open a Terminal Window a the Frontmost Finder Window's Location
@@ -186,6 +195,7 @@ The cost of software.
 
 # AppleScript Demo
 
+* Open the application data folder
 * The Script Menu
 
 ---
@@ -200,7 +210,7 @@ The cost of software.
 
 ---
 
-## What's it good for?
+# What's it do?
 
 * AppleScript Shortcuts
 * Type clipboard in the Simulator
@@ -209,6 +219,8 @@ The cost of software.
 ---
 
 # Shell Tools
+
+![fit](images/terminal.png)
 
 ---
 
@@ -222,7 +234,7 @@ The cost of software.
 
 ---
 
-## Why use `rg` over `grep`?
+# Why use `rg` over `grep`?
 
 * Recursive by default
 * Automatically ignores version control files
@@ -233,59 +245,39 @@ The cost of software.
 
 ---
 
-## Why use `rg` over other search methods?
+# `grep` vs. `rg`
 
-* You're already there.
+```
+grep --color -R --exclude-dir=".svn" <term>
+```
+
+```
+rg <term>
+```
 
 ---
 
-## History of `ack`-Likes
+# Why use `rg` over other search methods?
+
+* You're already there
+* Search across multiple projects at once
+* Command line interface fits search well
+
+---
+
+# History of `ack`-Likes
+
+(Recursive `grep` tools.)
 
 1. `ack`: written in Perl, introduced core concepts
 2. `ag`: written in C, faster than `ack`
 3. `rg` written in Rust, properly parsers `.gitignore` files
 
-(Could also be called recursive `grep` tools.)
-
 ---
 
 # `rg` Demo
 
-Find a token (`grep --color -R should` vs. `rg should`).
-
----
-
-# `fzf`
-
-* Fuzzy Finder for the Shell
-* Open Source & Free (install with Homebrew)
-* `junegunn`
-* Written in Go
-
----
-
-### History of Fuzzy Finders
-
-1. 1996: LaunchBar (NeXTSTEP)
-2. 2001: LaunchBar 3 (OS X)
-4. 2005: Spotlight
-2. 2006: TextMate
-3. 2010: Xcode
-
----
-
-# Why Fuzzy Finders?
-
-> Not all abstract interfaces can outperform a well-designed visual interface. (Just look at the amount of typing airline counter personnel have to do with their steam-powered computers to make a simple change.) LaunchBar is well-designed, quick, and depends on you to form your own abbreviations, sharply reducing the memory burden. I haven't performed or reviewed a stopwatch test, but LaunchBar should be able to outperform a visual interface for complex, repetitive switching sequences by an expert user.
--- *Bruce Tognazzini, AskTog, January, 2004*
-
-Author of the original *The Apple Human Interface Guidelines* in 1978.
-
----
-
-# `fzf` Demo
-
-Example `git` command
+Find a token (`grep --color -R should` vs. `rg should`)
 
 ---
 
@@ -301,4 +293,42 @@ Example `git` command
 
 # `z` Demo
 
-* Jump between directories.
+* Jump between directories
+
+---
+
+# `fzf`
+
+* Fuzzy Finder for the Shell
+* Open Source & Free (install with Homebrew)
+* `junegunn`
+* Written in Go
+
+---
+
+![fit](images/spotlight.png)
+
+---
+
+# History of Fuzzy Finders
+
+1. 1996: LaunchBar (NeXTSTEP)
+2. 2001: LaunchBar 3 (OS X)
+4. 2005: Spotlight
+2. 2006: TextMate
+3. 2010: Xcode
+
+---
+
+> Not all abstract interfaces can outperform a well-designed visual interface. (Just look at the amount of typing airline counter personnel have to do with their steam-powered computers to make a simple change.) LaunchBar is well-designed, quick, and depends on you to form your own abbreviations, sharply reducing the memory burden. I haven't performed or reviewed a stopwatch test, but LaunchBar should be able to outperform a visual interface for complex, repetitive switching sequences by an expert user.
+-- *Bruce Tognazzini, AskTog, January, 2004*
+
+Author of the original *Apple Human Interface Guidelines* in 1978.
+
+---
+
+# `fzf` Demo
+
+1. `cd`
+2. Add a Parameter
+3. Interface for another command
