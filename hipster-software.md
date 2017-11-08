@@ -1,30 +1,62 @@
-# Beyond Xcode
+# Hipster Software
 
-Some great tools for developers that aren't Xcode.
+The Dank Meme Tools
 
 ---
 
-# Why use tools?
+# So what's a hipster?
 
-1. First to make things impossible possible.
-2. Then to reduce effort, make something complex easy in order to conserve energy.
+---
+
+![fit](images/hipster-relativity.jpg)
+
+---
+
+# And what's a dank meme?
+
+---
+
+![fit](images/dank-meme-1.jpg)
+
+---
+
+![fit](images/dank-meme-2.png)
+
+---
+
+# I have no #$@&% idea
+
+---
+
+# Why use a tool?
+
+1. To make things impossible possible.
+2. It's faster.
+2. To reduce effort, make something complex easy (to conserve energy).
 
 ---
 
 # Why use paid tools?
 
 * Higher quality GUI tools
-* Demos mean low risk
+* Demos mean low risk purchases
 	* No subscriptions
 	* No cost of ownership
 * Cost is tiny relative to hardware
+
+---
+
+# More
+
 * More likely to be maintained
 * The primary cost of software is time invested to learn it
-* It's cheap!
+* It's cheap! On a four year upgrade cycle, $400 of software is about $75 a year.
 
 ---
 
 # Kaleidoscope
+
+![fit](images/kaleidoscope.png)
 
 * GUI Diff Tool
 * Developed by Black Pixel (originally Sofa)
@@ -45,11 +77,14 @@ It has an iOS version.
 
 # Kaleidoscope Demo
 
-Identifying which change introduced a bug.
+1. Identifying which change introduced a bug.
+2. Services integration
 
 ---
 
 # Tower
+
+![fit](images/tower.png)
 
 * GUI Git Client
 * Developed by fournova
@@ -57,13 +92,18 @@ Identifying which change introduced a bug.
 
 ---
 
-## Advantages over `git` from the command line:
+![fit](images/picard.jpg)
 
-> Why not just use the command line?
--- *Way too many people, on way to many threads*
+> "Why not just use the command line?"
+-- *Way too many people on the internet*
+
+---
+
+## Advantages over `git` from the command line:
 
 * Show visual hierarchy, expand and collapse information
 * Perform partial commits
+* Simple search
 
 ---
 
@@ -73,7 +113,7 @@ Izzy's show.
 
 ---
 
-## Soulver
+# Soulver
 
 * Live Calculator
 * Acqualia
