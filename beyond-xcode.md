@@ -186,7 +186,7 @@ What can you do with it?
 
 # `rg` Demo
 
-Find a token.
+Find a token (`grep --color -R should` vs. `rg should`).
 
 ---
 
@@ -236,4 +236,4 @@ Example `git` command
 
 # `z` Demo
 
-* Jump between a couple of directories.
+* Jump between directories.
