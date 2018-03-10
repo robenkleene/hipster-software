@@ -1,1 +1,1 @@
-[Slides are here!](hipster-software.md)
+[Slides are here!](hipster-software.pdf)
